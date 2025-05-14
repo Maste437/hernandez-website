@@ -1,0 +1,13 @@
+nav{
+    background-color: darkolivegreen;
+    text-align: center;
+}
+nav a{
+    color: crimson;
+    text-align: center;
+    padding: 2%;
+}
+
+p{
+    text-align: center;
+}
